@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+<img src='/images/DSC_1863.jpg'>
+
 Professional Experience
 ======
 
