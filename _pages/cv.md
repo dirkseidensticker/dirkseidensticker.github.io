@@ -9,56 +9,43 @@ redirect_from:
 
 {% include base_path %}
 
+Professional Experience
+======
+
+- **Research Fellow, Gerda Henkel Foundation** (2025– )  
+  *Trans-local potters’ communities in the Congo Basin* – mineralogical and geochemical analyses of ceramics.
+
+- **Archaeologist (Geophysics), ADEDE Search & Recovery, Ghent** (2025)  
+  Applied geophysical surface and intrusive surveys in a professional archaeology context.
+
+- **Senior Postdoctoral Researcher, Ghent University (FWO Fellow)** (2021–2024)  
+  Investigated trans-generational training networks in Central Africa through pottery technology and archaeometric analysis.
+
+- **Postdoctoral Researcher, Ghent University (ERC Project *BantuFirst*)** (2018–2020)  
+  Fieldwork in the DRC, ceramic analysis, development of digital environments and mapping tools.
+
+- **Research Associate, University of Tübingen** (2016–2017)  
+  Designed and implemented **Spacialist**, a virtual research environment for spatial and object-related humanities data.
+
+- **Research Associate, University of Cologne** (2015–2016)  
+  Archaeological fieldwork in the Congo Basin, focused on Iron Age subsistence and settlement history.
+
+---
+
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+- **PhD in Pre- and Protohistory (summa cum laude)**, University of Tübingen (2018)  
+  Dissertation: *Iron Age settlement history of the northwestern Congo Basin.*
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+- **Magister Artium (M.A.)** in Pre- and Protohistory, Palaeoanthropology, and Geology, University of Tübingen (2010)  
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+---
 
-Publications
+Selected Skills
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
+- **Archaeological science**: Ceramic petrography, pXRF, mineralogy, *chaîne opératoire* analysis  
+- **Field methods**: Excavation, survey, geophysics (Geoplot, Magneto), GIS (QGIS, ArcGIS)  
+- **Digital expertise**: R, Python, SQL, PostgreSQL/PostGIS, database design, research environments  
+- **Communication**: Conference organization, editorial experience, multilingual (EN, FR, NL, DE)  
