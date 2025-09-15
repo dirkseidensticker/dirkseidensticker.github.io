@@ -1,0 +1,76 @@
+# Books
+
+D. Seidensticker, Archäologische Untersuchungen zur eisenzeitlichen Besiedlungsgeschichte des nordwestlichen Kongobeckens (Tübingen 2021). doi: [10.15496/publikation-59846](https://publikationen.uni-tuebingen.de/xmlui/handle/10900/118472?locale-attribute=en) [[Code](https://github.com/dirkseidensticker/nwCongo)]
+
+M. K. H. Eggert – D. Seidensticker, Campo: Archaeological research at the mouth of the Ntem River (South Cameroon), Africa Praehistorica 31 (Köln 2016). url: https://hbi.uni-koeln.de/files/media/PDF/Buecher/AP31.pdf [[Code](https://github.com/dirkseidensticker/EggertSeidensticker2016CampoAP31)]
+
+# Peer-review articles
+
+D. Seidensticker - W. Hubau - F. Mees - G. Fiers - V. Cnudde, On and off the Rivers: Changes in Clay Sourcing and Preparation Strategies in the Congo Basin throughout the Past Two Millennia, Journal of Archaeological Science: Reports 66, 2025, 105298. [10.1016/j.jasrep.2025.105298](https://doi.org/10.1016/j.jasrep.2025.105298). [[Code](https://github.com/dirkseidensticker/OnOffRivers)]
+
+D. Seidensticker, Pikunda-Munda: Disappearance of Pottery Production in the Western Congo Basin at the end of the Early Iron Age, African Archaeological Review, 2025. doi: [10.1007/s10437-024-09610-8](https://link.springer.com/article/10.1007/s10437-024-09610-8) [[Code](https://github.com/dirkseidensticker/PikundaMunda_DissapearingPotteryTraditions_AAR)]
+
+K. V. M. Jungnickel – D. Seidensticker – W. Hubau – F. Mees – E. Cornelissen – K. Bostoen, The Late Pleistocene and Holocene chronocultural and anthracological open-air sequence from Mukila (DRC), Quaternary Science Reviews 337, 2024, 108752. doi: [10.1016/j.quascirev.2024.108752](https://www.sciencedirect.com/science/article/pii/S0277379124002531) [[Code](https://github.com/dirkseidensticker/Mukila_SiteIntegrity)]
+
+D. Seidensticker, Pikunda-Munda and Batalimo-Maluba: Archaeological Investigations of the Iron Age Settlement History of the Western and Northern Congo Basin, African Archaeological Review 41, 2024, 317–344. doi: [10.1007/s10437-024-09576-7](https://link.springer.com/article/10.1007/s10437-024-09576-7) [[Code](https://github.com/dirkseidensticker/PikundaMunda_BatalimoMaluba_AAR)]
+
+D. H. Seidensticker – K. V. M. Jungnickel, Early Food Production in the Congo Basin, Oxford Research Encyclopedia of African History, 2023. doi: [10.1093/acrefore/9780190277734.013.1226](https://oxfordre.com/africanhistory/display/10.1093/acrefore/9780190277734.001.0001/acrefore-9780190277734-e-1226?p=emailAAPHTUirc9sqk&d=/10.1093/acrefore/9780190277734.001.0001/acrefore-9780190277734-e-1226) [[Code](https://github.com/dirkseidensticker/FoodProdCB_OREAF)]
+
+B. Crezee – G. C. Dargie – C. E. N. Ewango – E. T. A. Mitchard – O. Emba B. – J. Kanyama T. – P. Bola – J.-B. N. Ndjango – N. T. Girkin – Y. E. Bocko – S. A. Ifo – W. Hubau – D. Seidensticker – R. Batumike – G. Imani – A. Cuní-Sanchez – C. A. Kiahtipes – J. Lebamba – H.-P. Wotzka – H. Bean – T. R. Baker – A. J. Baird – A. Boom – P. J. Morris – S. E. Page – I. T. Lawson – S. L. Lewis, Mapping peat thickness and carbon stocks of the central Congo Basin using field data, Nature Geoscience 15, 2022, 639–644. doi: [10.1038/s41561-022-00966-7](https://www.nature.com/articles/s41561-022-00966-7)
+
+D. Seidensticker – W. Hubau – D. Verschuren – C. Fortes-Lima – P. de Maret – C. M. Schlebusch – K. Bostoen, Population collapse in Congo rainforest from 400 CE urges reassessment of the Bantu Expansion, Science Advances 7, 7, 2021, . doi: [10.1126/sciadv.abd8352](https://www.science.org/doi/10.1126/sciadv.abd8352) [[Code](https://github.com/dirkseidensticker/HumActCentralAfrica_Paper)]
+
+C. Schmid – D. Seidensticker – M. Hinz, c14bazAAR: An R package for downloading and preparing C14 dates from different source databases, Journal of Open Source Software 4, 43, 2019. doi: [10.21105/joss.01914](https://joss.theoj.org/papers/10.21105/joss.01914)
+
+D. Seidensticker, Archaeology and History in Iron Age Settlements in the Congo Basin, in: K. Sadr – A. Esterhuysen – C. Sievers (Eds.), African Archaeology Without Frontiers (Johannesburg 2016) 114–126. url: https://www.cambridge.org/core/books/abs/african-archaeology-without-frontiers/archaeology-and-history-in-iron-age-settlements-in-the-congo-basin/596E6162718D560C9EE55F0C588073FA
+
+S. Kahlheber – M. K. H. Eggert – D. Seidensticker – H.-P. Wotzka, Pearl Millet and Other Plant Remains from the Early Iron Age Site of Boso-Njafo (Inner Congo Basin, Democratic Republic of the Congo), African Archaeological Review 31, 2014, 479–512. doi: [10.1007/s10437-014-9168-1](https://link.springer.com/article/10.1007/s10437-014-9168-1)
+
+# Other articles
+
+D. Seidensticker, K. V. M Jungnickel - R. Kidebua, Survey from Mbankana to Bandundu.” in: P. R. Coutros - J. H. Doman - I. Matonda Sakala - K. Bostoen, An Archaeology of the Bantu Expansion (London 2025) 305–332. [10.4324/9781032658148-19](https://doi.org/10.4324/9781032658148-19) [[Code](https://github.com/dirkseidensticker/Bandundu_BFbookChapter)]
+
+K. V. M. Jungnickel - D. Seidensticker - J. A. Yogolelo - C. M. Nsangathi, Excavations at Mukila, in: P. R. Coutros - J. H. Doman - I. Matonda Sakala - K. Bostoen, An Archaeology of the Bantu Expansion (London 2025) 283–304. [10.4324/9781032658148-18](https://doi.org/10.4324/9781032658148-18) [[Code](https://github.com/dirkseidensticker/Mukila_BFbook_Chapter)]
+
+D. Seidensticker, Zur Form und Funktion ur- und frühgeschichtlicher Gefäßkeramik. Eine Bestandsaufnahme, in: M. Halle - U. Kraus - K. Krüger - M. Wöhrl - M. Augstein (Eds) kultURgeschichten. Ur- und Frühgeschichte aus historischer, methodischer und theoretischer Perspektive (Bielefeld 2025) 37–54.
+
+D. Seidensticker – K. Jungnickel – C. Mambu – J. Yogolelo – K. Bostoen, The BantuFirst Project: 2018 Fieldwork Report from the Kinshasa, Kwango, Kwilu and Mai-Ndombe Provinces of the Democratic Republic of the Congo, Nyame Akuma 90, 2018, 23–29.
+
+B. Clist – K. Bostoen – P. de Maret – M. K. H. Eggert – A. Höhn – C. Mbida Mindzié – K. Neumann – D. Seidensticker, Did human activity really trigger the late Holocene rainforest crisis in Central Africa?, Proceedings of the National Academy of Sciences 115, 21, 2018, E4733–E4734. doi: [10.1073/pnas.1805247115](https://www.pnas.org/doi/10.1073/pnas.1805247115) [[Code](https://github.com/dirkseidensticker/GarcinDeschamps-etal2018_EarlyAnthropogenicImpact_REVIEW)]
+
+M. Lang – M. Derntl – B. Glissmann – V. Rosenkranz – D. Seidensticker – D. Kirschenheuter, Spacialist – A Virtual Research Environment for the Spatial Humanities, in: CAA: Digital Archaeologies, Material Worlds (Past and Present) (Tübingen 2020). doi: [10.15496/publikation-43218](https://publikationen.uni-tuebingen.de/xmlui/handle/10900/101839?locale-attribute=en)
+
+D. Seidensticker, Chronologie: Die Dinge folgen aufeinander, in: T. Otten – J. Kunow – M.M. Rind – M. Trier (Hrsg.), Archäologie in NRW 2010--2015: Forschungen, Funde, Methoden, Schriften zur Bodendenkmalpflege in Nordrhein-Westfalen (Darmstadt 2015) 65.
+
+D. Seidensticker, Keramikanalysen, in: T. Otten – J. Kunow – M.M. Rind – M. Trier (Hrsg.), Archäologie in NRW 2010--2015: Forschungen, Funde, Methoden, Schriften zur Bodendenkmalpflege in Nordrhein-Westfalen (Darmstadt 2015) 176.
+
+D. Seidensticker, Die Nutzung und Funktion von Gruben in Zentralafrika: Ethnografische Analogien und geochemische Analysen, in: R. Karl – J. Leskovar (Hrsg.), Interpretierte Eisenzeiten: Tagungsbeiträge der 5. Linzer Gespräche zur interpretativen Eisenzeitarchäologie 37, Studien zur Kulturgeschichte von Oberösterreich (Linz 2013) 51–59.
+
+D. Seidensticker, Speergeld aus Grab CAM 07/1 in Campo, Fundstelle „Campo-Center“, Südkamerun: Speergeld aus Kamerun: Gräber der frühen Eisenzeit in Campo, Südkamerun, in: S. Krmnicek (Hrsg.), More than Money (Tübingen 2013) 33–36.
+
+T. Knopf – D. Seidensticker, Archäologische Untersuchungen auf der Baar: Das Umland des Fürstengrabhügels Magdalenenberg, Archäologische Ausgrabungen in Baden-Württemberg, 2012, 116–121.
+
+U. Veit – A. Wendowski-Schünemann – J. Spohn (mit Beiträgen von D. Seidensticker und J. Wahl), Ein bronzezeitlicher Ringwall und Gräber der vorrömischen Eisenzeit in Duhnen, Stadt Cuxhaven, Ldkr. Cuxhaven: Archäologische und naturwissenschaftliche Untersuchungen 2004 bis 2009, Nachrichten aus Niedersachsens Urgeschichte 80, 2011, 47–71.
+
+D. Seidensticker, Grubenbefunde in Campo (Südkamerun), Archäologische Informationen 33, 1, 2010, 159–164.
+doi: [10.11588/ai.2010.1.10185](https://journals.ub.uni-heidelberg.de/index.php/arch-inf/article/view/10185)
+
+# Book reviews
+
+D. Seidensticker, „G. A. Wait – I. Thiaw, Archaeology and Ethnography along the Loango Coast in the South West of the Republic of Congo, Oxford, Archaeopress, 2018, 108 pp., £30.00 (Paperback); £16.00 (digital) ISBN 978-1-78491-994-8 (paperback). ISBN 978-1-78491-995-5 (digital)., Ethnoarchaeology 12, 1, 2020, 75–77. doi: [10.1080/19442890.2020.1723232](https://www.tandfonline.com/doi/full/10.1080/19442890.2020.1723232)
+
+D. Seidensticker, „M. Gutierrez – M. H. Benjamim (Hrsg.), Recherches archéologiques à Baia Farta (Benguela-Angola) / Pesquisas arqueológicas na Baia Farta (Benguela-Angola), L’Harmattan, Paris, 2019, 206 pp., ISBN 978-2-343-17441-9“, African Archaeological Review 38, 2021, s10437-020-09423–5. doi: [10.1007/s10437-020-09423-5](https://link.springer.com/article/10.1007/s10437-020-09423-5)
+
+D. Seidensticker, „X. Gutherz – J. Cauliez, Asa Koma. Site néolithique dans le basin du Gobaad (République de Djibouti), 2017, 276 pp, ISBN 978-2-36781-257-1“, Azania 54, 1, 2018, 126–127. doi: [10.1080/0067270X.2018.1546940](https://www.tandfonline.com/doi/full/10.1080/0067270X.2018.1546940)
+
+
+# Posters
+
+D. Seidensticker, Approaching Trans-Generational Training Networks in Central Africa: Using Ceramic Petrography to Retrace Provenance and Technology throughout Two Millennia. Ceramic Petrology Group Meeting (CPG), 9.–12. November 2020 doi: [10.5281/zenodo.4247550](https://zenodo.org/records/4247550)
+
+D. Seidensticker, Archaeological studies on the Iron Age settlement history of the northwestern Congo Basin Vortrag 2012, Bern. Schweizerische Tage der Afrikaforschung/Journées suisses d’études africaines 19.–20. Oktober 2012. doi: [10.5281/zenodo.45736](https://zenodo.org/records/45736)
+
+
+# Data sets
+
+D. Seidensticker – W. Hubau, aDRAC (Archive des datations radiocarbones d’Afrique centrale). doi: [10.5281/ZENODO.4530717](https://zenodo.org/records/4530717)
